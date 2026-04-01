@@ -81,7 +81,7 @@ export default function LandingPage() {
           href: "https://wa.me/5511978260194",
         },
       ]}
-      imageSrc="http://img.b2bpic.net/free-photo/financial-charts-kpi-metrics-displays-office_482257-126638.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/financial-charts-kpi-metrics-displays-office_482257-126638.jpg?_wi=1"
       mediaAnimation="slide-up"
       avatars={[
         {
@@ -187,7 +187,7 @@ export default function LandingPage() {
           role: "Empreendedora",
           company: "MEI",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/portrait-pleased-proud-handsome-africanamerican-man-cross-arms-chest-confident-contemplating-something-pleasant-smiling-delighted-look-left-satisfied-white-background_176420-52691.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/portrait-pleased-proud-handsome-africanamerican-man-cross-arms-chest-confident-contemplating-something-pleasant-smiling-delighted-look-left-satisfied-white-background_176420-52691.jpg?_wi=1",
         },
         {
           id: "t2",
@@ -219,7 +219,7 @@ export default function LandingPage() {
           role: "Empresária",
           company: "MEI",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/portrait-pleased-proud-handsome-africanamerican-man-cross-arms-chest-confident-contemplating-something-pleasant-smiling-delighted-look-left-satisfied-white-background_176420-52691.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/portrait-pleased-proud-handsome-africanamerican-man-cross-arms-chest-confident-contemplating-something-pleasant-smiling-delighted-look-left-satisfied-white-background_176420-52691.jpg?_wi=2",
         },
       ]}
       kpiItems={[
@@ -250,7 +250,7 @@ export default function LandingPage() {
       tag="Contato"
       title="Fale agora e resolva sua contabilidade"
       description="Estamos prontos para atender você com segurança e agilidade. Entre em contato e tire suas dúvidas."
-      imageSrc="http://img.b2bpic.net/free-photo/financial-charts-kpi-metrics-displays-office_482257-126638.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/financial-charts-kpi-metrics-displays-office_482257-126638.jpg?_wi=2"
       buttonText="Enviar mensagem"
       termsText="Ao clicar, você concorda com nossos termos de serviço."
     />
